@@ -1,4 +1,4 @@
-# 🎬 CPF Busca — Hero Motion (loop premium)
+# 🎬 CPF Buscas — Hero Motion (loop premium)
 
 Vídeo de produto SaaS de **14s em loop perfeito**, 1920×1080 @ 60fps, sem texto promocional (apenas a interface do produto), feito para a primeira dobra de landing pages.
 
@@ -20,4 +20,6 @@ Abertura com linhas cyan → Dashboard → Consulta com dados mascarados (`***.*
 </video>
 ```
 
-Site oficial: **https://cpfbusca.com/**
+Site oficial: **https://cpfbuscas.com/** · Contingência: **https://cpfbuscas.net/**
+
+> O antigo `cpfbusca.com` não é mais operado pela plataforma. A logo dentro do vídeo/poster ainda é a da versão anterior.
