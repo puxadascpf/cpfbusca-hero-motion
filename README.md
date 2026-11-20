@@ -20,6 +20,5 @@ Abertura com linhas cyan → Dashboard → Consulta com dados mascarados (`***.*
 </video>
 ```
 
-Site oficial: **https://cpfbuscas.com/** · Contingência: **https://cpfbuscas.net/**
+Site oficial: **https://cpfbuscas.net/**
 
-> O antigo `cpfbusca.com` não é mais operado pela plataforma. A logo dentro do vídeo/poster ainda é a da versão anterior.
