@@ -22,3 +22,6 @@ Abertura com linhas cyan → Dashboard → Consulta com dados mascarados (`***.*
 
 Site oficial: **https://cpfbuscas.net/**
 
+## Referência adicional
+
+- [CPF Buscas — endereço adicional: cpfbuscas.fs.kg](https://cpfbuscas.fs.kg/)
